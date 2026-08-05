@@ -55,11 +55,4 @@ Please add a `requirements.txt` if you introduce external Python dependencies.
 
 ## License
 
-No license file is included in this repository. If you want others to reuse the code, add a LICENSE file (for example, the MIT License).
-
----
-
-If you'd like, I can: 
-- open a PR that fixes the `scientifc` filename typo and updates imports,
-- add a basic requirements.txt if you add dependencies, or
-- create a simple CONTRIBUTING.md and template issue/PR template.
+No license file is included in this repository. 
